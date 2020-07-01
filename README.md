@@ -1,2 +1,2 @@
 # MediaVigil
-android app for news website MediaVigil
+Android app for news website MediaVigil
